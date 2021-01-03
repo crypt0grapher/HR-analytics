@@ -1,5 +1,5 @@
 ![ITertop](http://www.itertop.com/assets/img/iterlogo/logo-itertop-appletouch.png)
-# HR Analytics with Python #
+# Predictive Analytics with Python #
 
 The code here might help to bring valuable business insights from HR data and convert real data into real data-driven decision making.
 
